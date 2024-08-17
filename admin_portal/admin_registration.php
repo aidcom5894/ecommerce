@@ -104,12 +104,12 @@ include('../configuration/config.php');
       <script src="<?php echo $base_url . "modules/dashboard/assets/" ?>js/icons/feather-icon/feather-icon.js"></script>
       <!-- scrollbar js-->
       <!-- Sidebar jquery-->
-      <script src="<?php echo $base_url . "modules/dashboard/assets/" ?>js/config.js"></script>
+       <script src="<?php echo $base_url."modules/dashboard/assets/" ?>js/config.js"></script>
       <!-- Plugins JS start-->
       <!-- calendar js-->
       <!-- Plugins JS Ends-->
       <!-- Theme js-->
-      <script src="<?php echo $base_url . "modules/dashboard/assets/" ?>js/script.js"></script>
+      <script src="<?php echo $base_url."modules/dashboard/assets/" ?>js/script.js"></script>
     </div>
   </body>
 </html>
