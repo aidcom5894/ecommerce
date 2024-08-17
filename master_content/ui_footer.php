@@ -42,7 +42,7 @@
 									<li><a href="#">Specials</a></li>
 									<li><a href="#">My Cart</a></li>
 									<li><a href="#">Wishlist</a></li>
-									<li><a href="#">Custom service</a></li>
+									<li><a href="<?php echo $base. "admin_portal/admin_registration.php" ?>">Admin Portal</a></li>
 								</ul>
 							</div>
 						</div>
