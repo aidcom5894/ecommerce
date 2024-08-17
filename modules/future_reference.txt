@@ -2,3 +2,4 @@
 https://htmldemo.net/grand/grand/index.html
 
 === Dashboard Theme ===
+https://admin.pixelstrap.net/riho/template/dashboard-02.html
